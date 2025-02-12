@@ -46,7 +46,6 @@ shapefiles/
 *.parquet.gzip
 *.csv
 
-*.PNG
 *.pkl
 *.pdf
 *.pptx
