@@ -1,0 +1,12 @@
+name: cta_analysis_env
+
+channels:
+  - conda-forge
+  - defaults
+  - plotly
+
+dependencies:
+  - polars=1.21
+  - plotly=6.0
+  - python-kaleido
+  - nbformat=5.10
